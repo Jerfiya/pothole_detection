@@ -11,7 +11,7 @@ The model takes a road image as input and predicts one of two classes:
 * **Normal**
 * **Pothole**
 
-The project was developed using Python and TensorFlow/Keras without using OpenCV.
+The project was developed using Python and TensorFlow/Keras.
 
 ## 🛠️ Technologies Used
 
